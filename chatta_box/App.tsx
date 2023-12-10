@@ -17,7 +17,7 @@ const org = process.env.OPENAI_ORG;
 const openai = new OpenAI({
   //https://api.openai.com/v1/chat/completions
   // baseURL: 'https://api.openai.com/v1',
-  apiKey: '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'
+  apiKey: ''
 });
 
 function App() {
